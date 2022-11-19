@@ -358,3 +358,6 @@ Terraform/main.tfplan
 Terraform/main.destroy.tfplan
 Terraform/terraform.tfstate
 Terraform/terraform.tfstate.backup
+
+#ignore .idea
+.idea
